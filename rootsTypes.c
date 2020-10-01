@@ -11,11 +11,11 @@ int main(int argc, char const *argv[])
 	else
 		if (y<0)
 		{
-			printf("Complex roots. \n");
+			printf("Complex roots. \n");   //for complex roots
 		}
 		else
 		{
-			printf("Distinct roots \n");
+			printf("Distinct roots \n");    //for distinct roots
 		}
 
 	return 0;
