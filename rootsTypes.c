@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
 	y = b*b - 4 * a * c;
 	if (y==0)
 	{
-			printf("Equal roots. \n");
+			printf("Equal roots. \n");      //when equal
 	}
 	else
 		if (y<0)
